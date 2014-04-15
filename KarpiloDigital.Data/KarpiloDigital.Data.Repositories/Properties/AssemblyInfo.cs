@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("KarpiloDigital.Data.Repositories")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple implementation of the repository design pattern.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Karpilo Digital")]
 [assembly: AssemblyProduct("KarpiloDigital.Data.Repositories")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCopyright("Copyright © 2014 by Karpilo Digital")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Justin Karpilo</authors>
+    <owners>Justin Karpilo</owners>
+    <projectUrl>https://github.com/jkarpilo/Data</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release of package.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Data Repository</tags>
+  </metadata>
+</package>
