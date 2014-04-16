@@ -5,6 +5,6 @@ namespace KarpiloDigital.Data.Repositories
 {
     public interface IEntity
     {
-        Int32 ID { get; }
+        Int32 Id { get; }
     }
 }

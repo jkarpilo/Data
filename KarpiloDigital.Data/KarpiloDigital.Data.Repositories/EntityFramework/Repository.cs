@@ -48,7 +48,7 @@ namespace KarpiloDigital.Data.Repositories.EntityFramework
 
         public T GetById(Int32 id)
         {
-            return db.Set<T>().Single(e => e.ID == id);
+            return db.Set<T>().Single(e => e.Id == id);
         }
     }
 }
